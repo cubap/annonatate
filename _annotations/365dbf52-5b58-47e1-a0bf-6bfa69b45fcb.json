@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0002"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "New thing", "purpose": "commenting", "creator": {"id": "cubap", "name": "Patrick Cuba"}, "created": "2021-05-25T15:59:00.006Z", "modified": "2021-05-25T15:59:00.758Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0002", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2425.540283203125,1602.649658203125,972.66748046875,693.475830078125"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2002-04-18/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/365dbf52-5b58-47e1-a0bf-6bfa69b45fcb.json"}
